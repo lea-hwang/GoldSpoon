@@ -80,6 +80,7 @@
 ## 📌 스터디 문제 목록
 
 - 주차, 시작요일, 문제 번호 및 출처
+22주차 : 이것이코딩테스트다 03.Greedy & 11.Greedy문제 & 프로그래머스- [매운집](https://programmers.co.kr/learn/courses/30/lessons/42626)
 
 
 
