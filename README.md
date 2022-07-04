@@ -4,6 +4,8 @@
 
 - 시작 날짜 : 2022-01-26
 
+- 스터디장 : 홍석현
+
 - 참여자 : 배근혜, 박소정, 홍동현, 홍석현, 황희원
 
 - 스터디 요일 : 매주 일요일 13시
@@ -94,5 +96,5 @@
 
 | **주차** | **폴더명** | **문제1**                                               | **문제2**                                              | **문제3**                                     |
 | -------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
-| 20주차   | 20_week    | [프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)          | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)        | [빗물](https://www.acmicpc.net/problem/14719) |
+| 20주차   | 20_week    | [프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)          | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)        |  |
 | 21주차   | 21_week    | [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) | [점심 식사시간](https://swexpertacademy.com/main/learn/course/subjectDetail.do?subjectId=AV7Hys-6DToDFAXB) |                                               |
