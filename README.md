@@ -94,7 +94,20 @@
 
 
 
+##### A형대비
+
 | **주차** | **폴더명** | **문제1**                                               | **문제2**                                              | **문제3**                                     |
 | -------- | ---------- | ------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
 | 20주차   | 20_week    | [프로세서 연결하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)          | [수영장](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpFQaAQMDFAUq)        |  |
 | 21주차   | 21_week    | [특이한 자석](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) | [점심 식사시간](https://swexpertacademy.com/main/learn/course/subjectDetail.do?subjectId=AV7Hys-6DToDFAXB) |                                               |
+
+
+
+----
+
+#####  코딩테스트다 2회독
+
+| **주차** | **폴더명** | **단원1** | **단원2**      |      |
+| -------- | ---------- | --------- | -------------- | ---- |
+| 22주차   | 22_week    | 03_Greedy | 11_Greedy_문제 |      |
+|          |            |           |                |      |
